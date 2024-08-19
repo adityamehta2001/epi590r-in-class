@@ -1,3 +1,3 @@
 # EPI590R repo
 
-This repository belongs to Aditya Mehta
+This repository belongs to Aditya A. Mehta
